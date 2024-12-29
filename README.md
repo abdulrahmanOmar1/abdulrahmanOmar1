@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdulrahman almahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman almahmoud" height="30" width="40" /></a>
-<a href="https://fb.com/abdulrahman al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulrahman al" height="30" width="40" /></a>
+<a href="[https://fb.com/abdulrahman al](https://www.facebook.com/profile.php?id=100006391801210)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulrahman al" height="30" width="40" /></a>
 <a href="https://instagram.com/3bood._.omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3bood._.omar" height="30" width="40" /></a>
 </p>
 
@@ -45,7 +45,7 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <a href="https://.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
