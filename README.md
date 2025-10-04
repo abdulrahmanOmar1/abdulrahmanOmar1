@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Abdulrahman Almahmoud
+#  Hi, I'm Abdulrahman Almahmoud
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Integration+Specialist;Building+Scalable+Backend+Systems;Apache+Camel+%26+Spring+Boot+Expert;Teaching+Assistant+%40+Birzeit+University" alt="Typing SVG" />
 
