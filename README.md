@@ -190,6 +190,5 @@ const abdulrahman = {
 
 <img src="https://komarev.com/ghpvc/?username=abdulrahmanomar1&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
 
-⭐️ From [abdulrahmanOmar1](https://github.com/abdulrahmanOmar1) with 💙
-
+ 
 </div>
